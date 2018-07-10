@@ -1,5 +1,10 @@
 # Quellcode-Sammlung: AGS-Erfurt
 
+## Clonen
+Bitte clonen Sie das Git rekursiv:
+```bash
+git clone --recursive https://github.com/eskopp/AGS-Erfurt.git
+```
 ## Überblick
 
 Dieses Repository enthält eine umfassende Sammlung von Übungen, Prüfungen, Klausuren und weiteren programmierbezogenen Projekten, die ich während meiner Schulzeit an der AGS-Erfurt zwischen 2015 und 2018 durchgeführt habe. Es dient als digitales Archiv und zeigt die Entwicklung meiner Programmierfähigkeiten.
@@ -31,9 +36,3 @@ Die hier gespeicherten Codes dienen als Zeugnis meiner Lernkurve und Entwicklung
 
 Die in diesem Repository enthaltenen Informationen und Codebeispiele werden ohne jegliche Garantie und ohne Anspruch auf Vollständigkeit, Richtigkeit oder Aktualität bereitgestellt. Ich übernehme keine Verantwortung oder Haftung für eventuelle Fehler oder Auslassungen im Inhalt oder für irgendwelche Schäden oder Verluste, die aus der Nutzung der bereitgestellten Informationen entstehen.
 
-
-## Clonen
-Bitte clonen sie das Git rekursiv:
-```bash
-git clone --recursive https://github.com/eskopp/AGS-Erfurt.git
-```
