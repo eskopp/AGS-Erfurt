@@ -1,23 +1,32 @@
-# Quellcode Projekte für das Abitur an der AGS-Erfurt
+# Quellcode-Sammlung: AGS-Erfurt
 
 ## Überblick
 
-- **Projekte:** Schulprojekte auf dem Weg zum Abitur an der AGS-Erfurt
-- **Sprache:** JAVA
-- **Fokus:** Lernen und Anwendung von Grundlagen der Programmierung
-- **Entstehungsjahr:** 2015-2018
+Dieses Repository enthält eine umfassende Sammlung von Übungen, Prüfungen, Klausuren und weiteren programmierbezogenen Projekten, die ich während meiner Schulzeit an der AGS-Erfurt zwischen 2015 und 2018 durchgeführt habe. Es dient als digitales Archiv und zeigt die Entwicklung meiner Programmierfähigkeiten.
 
-## Merkmale
+### Kernpunkte
 
-- **Kurs 11**: Beinhaltet die Projekte aus der 11ten Klasse
-- **Kurs 12**: Beinhaltet die Projekte aus der 12ten Klasse
-- **Kurs 13**: Beinhaltet die Projekte aus der 13ten Klasse
-- **Prüfungen**: Beinhaltet alle Klausuren und das Abitur
+- **Programmiersprache:** JAVA
+- **Schwerpunkt:** Einführung und Vertiefung in die Grundlagen der Programmierung
+- **Zeitraum:** 2015-2018
 
-## Lernziele
+## Struktur des Repositories
 
-Dieses Projekt markiert meinen Einstieg in die Programmierung ohne vorheriges Wissen in diesem Bereich. 
+Die Inhalte sind nach Klassenstufen und Art der Arbeiten organisiert:
 
-## Status
+- **Kurs 11**: Übungen und kleinere Projekte aus der 11. Klasse
+- **Kurs 12**: Fortgeschrittene Konzepte und Projekte aus der 12. Klasse
+- **Kurs 13**: Komplexe Projekte und Vorbereitungen auf das Abitur in der 13. Klasse
+- **Prüfungen**: Eine umfassende Sammlung von Klausuren, Prüfungen und Abiturvorbereitungen
 
-Der Code in diesem Repository dient als Archiv meiner ersten Programmiererfahrungen. Er reflektiert meine Anfänge und das damalige Lernstadium. 
+## Lernziele und Entwicklung
+
+Dieses Repository dokumentiert meinen Weg von den ersten Schritten in der Programmierung bis hin zu fortgeschrittenen Projekten und Prüfungen. Es zeigt meinen persönlichen und fachlichen Wachstumsprozess während meiner Schulzeit.
+
+## Aktueller Status
+
+Die hier gespeicherten Codes dienen als Zeugnis meiner Lernkurve und Entwicklung. Sie spiegeln meine Fortschritte, Herausforderungen und Erfolge während meiner Schuljahre in der Programmierung wider.
+
+## Haftungsausschluss
+
+Die in diesem Repository enthaltenen Informationen und Codebeispiele werden ohne jegliche Garantie und ohne Anspruch auf Vollständigkeit, Richtigkeit oder Aktualität bereitgestellt. Ich übernehme keine Verantwortung oder Haftung für eventuelle Fehler oder Auslassungen im Inhalt oder für irgendwelche Schäden oder Verluste, die aus der Nutzung der bereitgestellten Informationen entstehen.
