@@ -1,0 +1,22 @@
+Tag 1  Messzeit: 1 = 12.0°C
+Tag 1  Messzeit: 2 = 12.0°C
+Tag 1  Messzeit: 3 = 12.0°C
+Tag 2  Messzeit: 1 = 12.0°C
+Tag 2  Messzeit: 2 = 12.0°C
+Tag 2  Messzeit: 3 = 12.0°C
+Tag 3  Messzeit: 1 = 12.0°C
+Tag 3  Messzeit: 2 = 12.0°C
+Tag 3  Messzeit: 3 = 12.0°C
+Tag 4  Messzeit: 1 = 12.0°C
+Tag 4  Messzeit: 2 = 12.0°C
+Tag 4  Messzeit: 3 = 12.0°C
+Tag 5  Messzeit: 1 = 12.0°C
+Tag 5  Messzeit: 2 = 12.0°C
+Tag 5  Messzeit: 3 = 12.0°C
+Tag 6  Messzeit: 1 = 12.0°C
+Tag 6  Messzeit: 2 = 12.0°C
+Tag 6  Messzeit: 3 = 12.0°C
+Tag 7  Messzeit: 1 = 12.0°C
+Tag 7  Messzeit: 2 = 12.0°C
+Tag 7  Messzeit: 3 = 12.0°C
+Durchschnittstemp: 12.0°C

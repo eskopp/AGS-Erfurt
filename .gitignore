@@ -1,0 +1,37 @@
+# Kompilierte Klassen
+*.class
+
+# Paketdateien
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Maven Verzeichnis
+target/
+
+# NetBeans spezifische Dateien
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# IDE-Verzeichnisse
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Sonstige Dateien und Verzeichnisse
+.DS_Store
+*.swp
+*~
+
+# Edit
+*.xml
+nbproject
