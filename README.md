@@ -30,3 +30,10 @@ Die hier gespeicherten Codes dienen als Zeugnis meiner Lernkurve und Entwicklung
 ## Haftungsausschluss
 
 Die in diesem Repository enthaltenen Informationen und Codebeispiele werden ohne jegliche Garantie und ohne Anspruch auf Vollständigkeit, Richtigkeit oder Aktualität bereitgestellt. Ich übernehme keine Verantwortung oder Haftung für eventuelle Fehler oder Auslassungen im Inhalt oder für irgendwelche Schäden oder Verluste, die aus der Nutzung der bereitgestellten Informationen entstehen.
+
+
+## Clonen
+Bitte clonen sie das Git rekursiv:
+```bash
+git clone --recursive https://github.com/eskopp/AGS-Erfurt.git
+```
