@@ -1,0 +1,6 @@
+[submodule "Projekte/GWStraussfurt"]
+	path = Projekte/GWStraussfurt
+	url = https://github.com/eskopp/GWStraussfurt.git
+[submodule "Projekte/TUI-Workshop-Ampel"]
+	path = Projekte/TUI-Workshop-Ampel
+	url = https://github.com/eskopp/TUI-Workshop-Ampel.git
