@@ -36,3 +36,9 @@ Die hier gespeicherten Codes dienen als Zeugnis meiner Lernkurve und Entwicklung
 
 Die in diesem Repository enthaltenen Informationen und Codebeispiele werden ohne jegliche Garantie und ohne Anspruch auf Vollständigkeit, Richtigkeit oder Aktualität bereitgestellt. Ich übernehme keine Verantwortung oder Haftung für eventuelle Fehler oder Auslassungen im Inhalt oder für irgendwelche Schäden oder Verluste, die aus der Nutzung der bereitgestellten Informationen entstehen.
 
+
+## Hinweis zu den Submodulen
+
+In diesem Repository wurden Git-Submodule integriert. Diese Submodule repräsentieren eigenständige Projekte oder Bibliotheken, die für dieses Repository relevant sind. Zum Zeitpunkt der Archivierung dieses Repositories waren alle Submodule auf dem neuesten Stand. Das bedeutet, dass die in den Submodulen enthaltenen Codes und Inhalte den Zustand widerspiegeln, den sie zum Zeitpunkt der Archivierung des Hauptrepositories hatten.
+
+Bitte beachten Sie, dass nachfolgende Änderungen an diesen Submodulen möglicherweise nicht im Hauptrepository reflektiert werden, da es sich um archivierte Inhalte handelt. Für die neuesten Updates oder Änderungen an den Submodulen beziehen Sie sich bitte direkt auf die jeweiligen eigenständigen Repositories.
