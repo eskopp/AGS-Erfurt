@@ -4,3 +4,6 @@
 [submodule "Projekte/TUI-Workshop-Ampel"]
 	path = Projekte/TUI-Workshop-Ampel
 	url = https://github.com/eskopp/TUI-Workshop-Ampel.git
+[submodule "Seminarfach/JavaCrypt"]
+	path = Seminarfach/JavaCrypt
+	url = https://github.com/eskopp/JavaCrypt.git
